@@ -1,0 +1,2 @@
+# Handwritten_Text_Recognition_using_Deep_Learning
+Term project investigating training methodology for handwritten text recognition models
